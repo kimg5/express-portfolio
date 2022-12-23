@@ -9,6 +9,7 @@ It provide rest API for the display subsystem and management subsystem. It is ba
 7. nodemailer lib, help to send the mail
 8. validator lib, help to do the data validation
 9. express-async-errors lib, help to process the errors globally
+10.mongoDB
 
 Install guide:
 1. clone the project.
